@@ -3,8 +3,8 @@ This repository holds the code for EDA Web App
 
 ## Team Members: - 
   - Shashwat Jha – 19MIM10111
-  - Aman Jain – 19MIM10064
-  - Priyanshu Shukla – 19MIM10043
+  - Aman Jain – 19MIM10064 (Leader)
+  - Priyanshu Shukla – 19MIM10043 (Co-Lead)
   - Ashraf Shaikh – 19MIM10116
 
 ## Introduction
